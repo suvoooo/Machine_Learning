@@ -9,4 +9,4 @@ PCA_Muller.py 190818: Principal component analysis example with breast cancer da
 081018: bank.csv, data set of portuguese company selling products to random customer over a phone call. Detailed description are available here http://archive.ics.uci.edu/ml/datasets/Bank+Marketing \
 161018: gender_purchase.csv, data-set of two columns describing customers buying a product depending on gender.\
 111118: winequality-red.csv, red wine data set, where the output is the quality column which ranges from 0 to 10. This output is unbalanced as most of them are normal. So be careful!!\
-121118: pipelineWine.py, this program contains a simple example of applying pipeline and gridsearchCV together using the red wine data. 
+121118: pipelineWine.py, this program contains a simple example of applying pipeline and gridsearchCV together using the red wine data. More description can be found here https://towardsdatascience.com/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976
