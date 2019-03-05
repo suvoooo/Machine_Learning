@@ -6,7 +6,7 @@
 
 *270918: RidgeandLin.py, LassoandLin.py:* Lasso and Ridge regression examples: From coefficient shrinakge in Ridge to feature selection in Lasso are shown in the code. The concepts and discussion of the results are discussed [here](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b).   
 
-*081018: bank.csv*, data set of portuguese company selling products to random customer over a phone call. Detailed description are available [here](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+*081018: bank.csv*, data set of portuguese company selling products to random customer over a phone call. Detailed description are available [here](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
 
 *161018: gender_purchase.csv*, data-set of two columns describing customers buying a product depending on gender.
 
@@ -14,9 +14,9 @@
 
 *121118: pipelineWine.py*, Contains a simple example of applying pipeline and gridsearchCV together using the red wine data. More description can be found [here](https://towardsdatascience.com/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976). 
 
-*24112018 lagmult.py*, this program just demonstrate a simple constrained optimization problem using figures. Uses Lagrange Multiplier method.  
+*24112018: lagmult.py*, this program just demonstrate a simple constrained optimization problem using figures. Uses Lagrange Multiplier method.  
 
-*11122018 Consumer_Complaints_short.csv*, 3 columns describing the complaints, product_label and category. Complete file can be obtained from [Govt.data](https://catalog.data.gov/dataset/consumer-complaint-database/resource/2f297213-7198-4be1-af1e-2d2623e7f6e9). File size is around 650 MB. More details about the usage of this file will be uploaded soon when the text classification program is ready. 
+*11122018: Consumer_Complaints_short.csv*, 3 columns describing the complaints, product_label and category. Complete file can be obtained from [Govt.data](https://catalog.data.gov/dataset/consumer-complaint-database/resource/2f297213-7198-4be1-af1e-2d2623e7f6e9). File size is around 650 MB. More details about the usage of this file will be uploaded soon when the text classification program is ready. 
 
 *13122018: Text-classification_compain_suvo.py*, Classify the consumer complaints data, which is already described above. The file deals with the complete data-set (650 MB). After testing several ML algorithms, Linear SVM works best. Higher the computer resources, higher amount of rows can be considered for TfidfVectorizer. 
 
