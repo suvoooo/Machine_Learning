@@ -24,4 +24,4 @@
 
 *05032019: IBM_Python_Web_Scrapping.ipynb*, Deals with basic web scrapping, string handling, image manipulation while we generate fake cover for our band.
 
-*05032019: datacleaning*, Folder containing files and images related to data cleaning with pandas. For more details check [Medium](https://medium.com/@saptashwa/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418). 
+*06042019: datacleaning*, Folder containing files and images related to data cleaning with pandas. For more details check [Medium](https://medium.com/@saptashwa/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418). 
