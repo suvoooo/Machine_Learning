@@ -25,3 +25,5 @@
 *05032019: IBM_Python_Web_Scrapping.ipynb*, Deals with basic web scrapping, string handling, image manipulation while we generate fake cover for our band.
 
 *06042019: datacleaning*, Folder containing files and images related to data cleaning with pandas. For more details check [Medium](https://medium.com/@saptashwa/data-handling-using-pandas-cleaning-and-processing-3aa657dc9418). 
+
+*09062019: DBSCAN_Complete*, Folder containing files and images related to application of DBSCAN algorithm to cluster Weather Stations in Canada. Apart from ususal Scikit-learn, numpy, pandas, I have used Basemap to show the clusters on a map. More details can be found in [Medium](https://medium.com/@saptashwa/dbscan-algorithm-complete-guide-and-application-with-python-scikit-learn-d690cbae4c5d).
