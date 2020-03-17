@@ -31,3 +31,5 @@
 *13072019: SVM_Decision_Boundary*, I set up a pipeline with StandardScaler, PCA, SVM and, performed grid-search cross-validation to find best-fit parameters, using which the decision function contours of SVM classifier for binary classification are plotted. Read in [TDS](https://towardsdatascience.com/visualizing-support-vector-machine-decision-boundary-69e7591dacea) for more.     
 
 *28122019: DecsTree*, Folder contains notebook using a decision tree classifier on the [Bank Marketing Data-Set](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing). Best parameters are obtained using Grid Search Cross Validation. Also materials used for the [TDS post](https://towardsdatascience.com/understanding-decision-tree-classification-with-scikit-learn-2ddf272731bd) are included.  
+
+*07032020: Conjugate Prior*, Folder contains a notebook where concept of conjugate prior is discussed including an introduction to [PyMC3](https://docs.pymc.io/). More details can be found [here](https://towardsdatascience.com/understanding-conjugate-priors-21b2824cddae).  
