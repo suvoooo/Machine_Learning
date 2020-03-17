@@ -1,10 +1,10 @@
 # Machine_Learning
 # This repository contains some of the most important machine learning and data-analysis techniques.
 ## When the new files will be added, corresponding description will also be added with file name and DDMMYY. 
-### base of these programs are machine learning codes influenced from Muller's Machine Learning with Python book. Later on many extra techniques are implemented.
-*PCA_Muller.py 190818:* Principal component analysis example with breast cancer data-set. Detailed description of this code is discussed in [Towards Data Science](https://towardsdatascience.com/dive-into-pca-principal-component-analysis-with-python-43ded13ead21).
 
-*270918: RidgeandLin.py, LassoandLin.py:* Lasso and Ridge regression examples: From coefficient shrinakge in Ridge to feature selection in Lasso are shown in the code. The concepts and discussion of the results are described [here](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b).   
+*PCA_Muller.py 190818:* Principal component analysis example with breast cancer data-set. Detailed description of this code is discussed in [Towards Data Science](https://towardsdatascience.com/dive-into-pca-principal-component-analysis-with-python-43ded13ead21). Base of this is taken from Prof. A. Muller's [Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) book.    
+
+*270918: RidgeandLin.py, LassoandLin.py:* Lasso and Ridge regression examples: The concepts and discussion of the results are described [here](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b). Base of this is taken from Prof. A. Muller's [Machine Learning](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) book.     
 
 *081018: bank.csv*, data set of selling products of a portuguese company to random customers over phone call(s). Detailed description are available [here](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
 
