@@ -33,3 +33,5 @@
 *28122019: DecsTree*, Folder contains notebook using a decision tree classifier on the [Bank Marketing Data-Set](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing). Best parameters are obtained using Grid Search Cross Validation. Also materials used for the [TDS post](https://towardsdatascience.com/understanding-decision-tree-classification-with-scikit-learn-2ddf272731bd) are included.  
 
 *07032020: Conjugate Prior*, Folder contains a notebook where concept of conjugate prior is discussed including an introduction to [PyMC3](https://docs.pymc.io/). More details can be found [here](https://towardsdatascience.com/understanding-conjugate-priors-21b2824cddae).  
+
+*29052020: ExMax_Algo*, Folder contains a notebook completely explaining the Expectation Maximization algorithm. Implemented with a reference to Gaussian Mixture Models. More details in [TDS](https://towardsdatascience.com/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c).  
