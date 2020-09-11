@@ -35,3 +35,5 @@
 *07032020: Conjugate Prior*, Folder contains a notebook where concept of conjugate prior is discussed including an introduction to [PyMC3](https://docs.pymc.io/).   
 
 *29052020: ExMax_Algo*, Folder contains a notebook completely explaining the Expectation Maximization algorithm. 
+
+*11092020: AdaptiveLoss.ipynb*, File contains description and a simple implemetation of robust and adaptive loss function. [Original Paper by J. Barron](https://arxiv.org/pdf/1701.03077.pdf). More details on [TDS](https://medium.com/@saptashwa/the-most-awesome-loss-function-172ffc106c99).   
