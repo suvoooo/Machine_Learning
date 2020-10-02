@@ -37,3 +37,6 @@
 *29052020: ExMax_Algo*, Folder contains a notebook completely explaining the Expectation Maximization algorithm. 
 
 *11092020: AdaptiveLoss.ipynb*, File contains description and a simple implemetation of robust and adaptive loss function. [Original Paper by J. Barron](https://arxiv.org/pdf/1701.03077.pdf). More details on [TDS](https://medium.com/@saptashwa/the-most-awesome-loss-function-172ffc106c99).   
+
+*31092020: pima_diabetes.ipynb*, file contains description of data preparation and choosing best machine learning algorithm for binary classification task. 
+Little more details on [kaggle kernel](https://www.kaggle.com/suvoooo/eda-and-choosing-best-classifier-on-pima-diabetes). 
