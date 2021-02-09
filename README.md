@@ -40,3 +40,5 @@
 
 *31092020: pima_diabetes.ipynb*, file contains description of data preparation and choosing best machine learning algorithm for binary classification task. 
 Little more details on [kaggle kernel](https://www.kaggle.com/suvoooo/eda-and-choosing-best-classifier-on-pima-diabetes). 
+
+*15112020: terrorism_kaggle.ipynb*, Notebook contains elaborate examples on how to think about problems and interpret large scale data using [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd). Apart from Pandas Groupby, Crosstab methods I have also used Folium, Basemap libraries for visualizing Leaflet map and 2D data on maps respectively.     
