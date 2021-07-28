@@ -41,7 +41,10 @@
 *31092020: pima_diabetes.ipynb*, file contains description of data preparation and choosing best machine learning algorithm for binary classification task. 
 Little more details on [kaggle kernel](https://www.kaggle.com/suvoooo/eda-and-choosing-best-classifier-on-pima-diabetes). 
 
+
 *15112020: terrorism_kaggle.ipynb*, Notebook contains elaborate examples on how to think about problems and interpret large scale data using [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd). Apart from Pandas Groupby, Crosstab methods I have also used Folium, Basemap libraries for visualizing Leaflet map and 2D data on maps respectively. More on [The Startup](https://medium.com/swlh/practical-data-analysis-using-pandas-global-terrorism-database-20b29009adad).     
+
 *15022021: FocalLoss_Ex.ipynb*, Notebook contains explanation on detail of how Focal Loss works. Please read the original [Focal Loss paper](https://arxiv.org/abs/1708.02002). Example of implementing Focal Loss using Tensorflow is also shown. For more detail check the post on [TDS](https://towardsdatascience.com/a-loss-function-suitable-for-class-imbalanced-data-focal-loss-af1702d75d75). 
+
 
 *19062021: Augly_Try.ipynb*, Notebook contains examples of image augmentation using [Facebook's Augly](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/) Library. For more detail check the notebook and [TDS](https://towardsdatascience.com/facebook-just-launched-the-coolest-augmentation-library-augly-3910c05db505) post. 
