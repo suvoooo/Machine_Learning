@@ -48,3 +48,5 @@ Little more details on [kaggle kernel](https://www.kaggle.com/suvoooo/eda-and-ch
 
 
 *19062021: Augly_Try.ipynb*, Notebook contains examples of image augmentation using [Facebook's Augly](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/) Library. For more detail check the notebook and [TDS](https://towardsdatascience.com/facebook-just-launched-the-coolest-augmentation-library-augly-3910c05db505) post. 
+
+*24122021: NB_LogisticReg.ipynb*, Notebook clearly explains connection between Gaussian Naive Bayes and Logistic Regression and determine parameters of Logistic Regression starting from GNB. The notebook is self-explanatory but you can also check the [TDS post](https://towardsdatascience.com/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f).
