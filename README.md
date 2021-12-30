@@ -1,4 +1,4 @@
-## Machine_Learning and Data Analysis
+## Machine Learning and Data Analysis
 ### This repo contains introduction and examples of some of the most important machine learning and data-analysis techniques.
 #### Filenames are preceded by DDMMYY. For descriptions and more check the Wiki Page. 
 #### Dedicated _Deep Learning Repository_ similar to this is [here](https://github.com/suvoooo/Learn-TensorFlow).   
