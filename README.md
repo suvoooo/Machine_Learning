@@ -74,7 +74,7 @@ Distributed under Apache License. Read `LICENSE.md` for detail.
 -----------------------------
 ## Contacts
 
-![Saptashwa](https://www.linkedin.com/in/saptashwa/). 
+[Saptashwa](https://www.linkedin.com/in/saptashwa/). 
 
 
 
