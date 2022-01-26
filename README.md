@@ -29,6 +29,23 @@
 
 *11122018: Consumer_Complaints_short.csv*, 3 columns describing the complaints, product_label and category. Complete file can be obtained from [Govt.data](https://catalog.data.gov/dataset/consumer-complaint-database/resource/2f297213-7198-4be1-af1e-2d2623e7f6e9). 
 
+
+
+
+------------------------
+
+## License 
+
+Distributed under Apache License. Read `LICENSE.md` for detail. 
+
+-----------------------------
+## Contacts
+
+![Saptashwa](https://www.linkedin.com/in/saptashwa/). 
+
+
+
+
 *13122018: Text-classification_compain_suvo.py*, Classify the consumer complaints data, which is already described above. 
 
 1912018: SVMdemo.py*, this program shows the effect of using RBF kernel to map from 2d space to 3d space. Animation requires ffmpeg in unix system. 
