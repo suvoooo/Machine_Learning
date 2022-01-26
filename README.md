@@ -29,23 +29,6 @@
 
 *11122018: Consumer_Complaints_short.csv*, 3 columns describing the complaints, product_label and category. Complete file can be obtained from [Govt.data](https://catalog.data.gov/dataset/consumer-complaint-database/resource/2f297213-7198-4be1-af1e-2d2623e7f6e9). 
 
-
-
-
-------------------------
-
-## License 
-
-Distributed under Apache License. Read `LICENSE.md` for detail. 
-
------------------------------
-## Contacts
-
-![Saptashwa](https://www.linkedin.com/in/saptashwa/). 
-
-
-
-
 *13122018: Text-classification_compain_suvo.py*, Classify the consumer complaints data, which is already described above. 
 
 1912018: SVMdemo.py*, this program shows the effect of using RBF kernel to map from 2d space to 3d space. Animation requires ffmpeg in unix system. 
@@ -78,3 +61,21 @@ Little more details on [kaggle kernel](https://www.kaggle.com/suvoooo/eda-and-ch
 *19062021: Augly_Try.ipynb*, Notebook contains examples of image augmentation using [Facebook's Augly](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/) Library. For more detail check the notebook and [TDS](https://towardsdatascience.com/facebook-just-launched-the-coolest-augmentation-library-augly-3910c05db505) post. 
 
 *24122021: NB_LogisticReg.ipynb*, Notebook clearly explains connection between Gaussian Naive Bayes and Logistic Regression and determine parameters of Logistic Regression starting from GNB. The notebook is self-explanatory but you can also check the [TDS post](https://towardsdatascience.com/connecting-naive-bayes-and-logistic-regression-binary-classification-ce69e527157f).
+
+
+
+
+------------------------
+
+## License 
+
+Distributed under Apache License. Read `LICENSE.md` for detail. 
+
+-----------------------------
+## Contacts
+
+![Saptashwa](https://www.linkedin.com/in/saptashwa/). 
+
+
+
+
