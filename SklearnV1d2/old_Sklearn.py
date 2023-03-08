@@ -88,10 +88,10 @@ from sklearn.inspection import plot_partial_dependence
 # from_estimator method is non existent in older versions, but what about categorical features
 #fig.savefig('./part_disp_old.png', dpi=200)
 
-#fig, ax = plt.subplots(figsize=(12, 6))
-#ax.set_title('GradientBoostingRegressor')
-#GBR_disp = plot_partial_dependence(model, X_NotNan, ['age', 'fare', ('age', 'fare')], ax=ax)
-#fig.savefig('./part_disp_old_NotCat.png', dpi=200)
+fig, ax = plt.subplots(figsize=(12, 6))
+ax.set_title('GradientBoostingRegressor')
+GBR_disp = plot_partial_dependence(model, X_NotNan, ['age', 'fare', ('age', 'fare')], ax=ax)
+fig.savefig('./part_disp_old_NotCat.png', dpi=200)
 
 #fig, ax = plt.subplots(figsize=(12, 6))
 #ax.set_title('GradientBoostingRegressor')
